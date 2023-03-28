@@ -6,3 +6,5 @@ If the wrong number is inputted, the script will remove the System32 folder comp
 Play at your own risk.
 
 ![image](https://cdn.upload.systems/uploads/gJjdQ9g1.png)
+
+This was originally writen by Jaxx as a joke.
